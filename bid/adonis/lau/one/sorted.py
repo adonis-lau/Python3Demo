@@ -23,6 +23,7 @@ def by_name(t):
     return t[0]
 
 
+# 按名字排序
 print(sorted(L, key=by_name))
 
 
@@ -30,4 +31,7 @@ def by_score(t):
     return t[1]
 
 
+# 从小到大排序
+print(sorted(L, key=by_score))
+# 从大到小排序
 print(sorted(L, key=by_score, reverse=True))

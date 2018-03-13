@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# -*- conding: utf-8 -*-
+# -*- coding: utf-8 -*-
 
 def my_abs(x):
     if not isinstance(x, (int, float)):

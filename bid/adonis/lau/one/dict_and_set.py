@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# -*- conding: utf-8 -*-
+# -*- coding: utf-8 -*-
 
 students = {'Michael':95, 'Bob': 85, 'Tracy': 75}
 print(students['Bob'])
